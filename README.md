@@ -39,7 +39,8 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/codelias1/TwitterSongbirds/assets/161394478/0e09ce2e-51bf-4f04-b8b5-2fbc27d9da96)' title='Video Demo' width='' alt='Video Demo' width="200" />
+![Video Demo](https://github.com/codelias1/TwitterSongbirds/assets/161394478/0e09ce2e-51bf-4f04-b8b5-2fbc27d9da96.gif)
+
 
 
 
